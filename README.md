@@ -19,3 +19,5 @@
 2. Запуск скриптa
    ```bash
    python enhanced_ai_sorter.py your_video.mp4
+
+   //python run_sorter.py video.mp4 -c config_fast.json --model tiny
