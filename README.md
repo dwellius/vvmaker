@@ -20,4 +20,6 @@
    ```bash
    python enhanced_ai_sorter.py your_video.mp4
 
-   //python run_sorter.py video.mp4 -c config_fast.json --model tiny
+   // python run_sorter.py video.mp4 -c config_fast.json --model tiny
+
+   // python enhanced_ai_sorter_fixed.py clip_000_9_16.mp4 (last one)
