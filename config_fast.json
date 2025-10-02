@@ -1,0 +1,12 @@
+{
+  "whisper_model": "tiny",
+  "scene_threshold": 40.0,
+  "min_clip_duration": 20,
+  "max_clip_duration": 45,
+  "min_words": 6,
+  "output_resolution": "1080x1920",
+  "quality_settings": {
+    "preset": "fast",
+    "crf": 25
+  }
+}
