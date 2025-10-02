@@ -1,0 +1,25 @@
+# Enhanced AI Video Sorter - Requirements
+# Основные зависимости для улучшенного видео сортировщика
+
+# Основные пакеты
+faster-whisper>=0.10.0
+scenedetect[opencv]>=0.6.2
+openai>=1.3.0
+nltk>=3.8.1
+textstat>=0.7.3
+colorama>=0.4.6
+tqdm>=4.66.0
+
+# Дополнительные полезные пакеты
+moviepy>=1.0.3
+pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+
+# Для анализа эмоций (опционально)
+vaderSentiment>=3.3.2
+textblob>=0.17.1
+
+# Для работы с JSON и конфигурациями
+pydantic>=2.0.0
+pyyaml>=6.0
